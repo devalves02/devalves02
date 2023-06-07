@@ -1,16 +1,19 @@
-### Hi there 👋
+### Olá, Meu nome é Pedro Alves👋 
 
-<!--
-**devalves02/devalves02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Skills
 
-Here are some ideas to get you started:
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+### OS
+
+![Linux](https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white
+)
+
+apaixonado por tecnologia, educação e sempre querendo ajudar as pessoas atraves de programação
+
+
